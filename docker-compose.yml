@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  env:
+    tty: true
+    build: ./env-build
+    image: zkipart/elrondsdk-env
+    container_name: elrondsdk-env
+    ports:
+      - "3000:3000"
+      - "8080:80"
+    volumes:
+      - ./app:/app/
