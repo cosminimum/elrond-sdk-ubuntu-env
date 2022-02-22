@@ -1,6 +1,6 @@
 # ELROND SDK on Docker Environment
 
-Small personal project that build Elrond SDK on Docker Container with single commands
+Small personal project that build Elrond SDK on Docker Container with single command
 
 ## Requirements
 - Docker
