@@ -14,3 +14,7 @@ Small personal project that build Elrond SDK on Docker Container with single com
 
 ## Documentation
 Please see the [Elrond Official Documentation](https://docs.elrond.com/developers/tutorials/your-first-dapp/) for more details.
+
+## Technologies
+- Docker
+- Bash
